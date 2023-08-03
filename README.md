@@ -1,2 +1,2 @@
 # batch-what
-testing some new laptop python scripts to run maybe? linux dev incoming (jk unless?)
+testing some new laptop python and batch scripts to run maybe? linux dev incoming (jk unless?)
